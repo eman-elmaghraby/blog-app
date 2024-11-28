@@ -20,9 +20,8 @@ This is a simple blog application built using **Next.js**, **TypeScript**, and *
 - **tsconfig.json**: TypeScript configuration file.
 - **package.json**: Project dependencies and scripts.
 
-## How to Install Dependencies and Run the Application
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/eman-elmaghraby/blog-app.git
-   cd blog-app-next-ts-tailwind
+
+## GitHub Repository
+
+The source code is available on GitHub: [GitHub Repository](https://github.com/eman-elmaghraby/blog-app.git)
